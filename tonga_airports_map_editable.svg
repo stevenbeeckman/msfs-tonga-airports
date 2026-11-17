@@ -17,7 +17,15 @@
   </rdf:RDF>
  </metadata>
  <defs>
-  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt; font-family: sans-serif}</style>
+  <style type="text/css">
+    * {
+      stroke-linejoin: round; stroke-linecap: butt
+    }
+    
+    text {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    }
+  </style>
  </defs>
  <g id="figure_1">
   <g id="patch_1">
